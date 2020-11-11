@@ -30,7 +30,7 @@ def main():
 [*] Broadcast:          {broadcast}
 [*] Host Mask:          {hostmask}
 [*] Net Mask:           {netmask}
-[*] Minimun Host:       {minimum_host}
+[*] Minimum Host:       {minimum_host}
 [*] Maximum Host:       {maximum_hosts}
 [*] Hosts per Network:  {len(hosts)}
 """)
