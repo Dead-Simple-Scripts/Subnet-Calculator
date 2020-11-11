@@ -1,10 +1,13 @@
 # Subnet-Calculator
 Python script to calculate subnet information.
 
-# Script to calculate subnets.
-# usage: subnet_calc.py [-h] --host HOST -m MASK
-# Usage: python subnet.py --host 10.0.0.0 -m 16 > subnet.txt
-# Generating a host list is an interactive CLI question|option.
+Script to calculate subnets.
+
+usage: subnet_calc.py [-h] --host HOST -m MASK
+
+Usage: python subnet.py --host 10.0.0.0 -m 16 > subnet.txt
+
+Generating a host list is an interactive CLI question|option.
 
 OUTPUT Example:
 $ python3 subnet_calc.py --host 10.0.0.0 -m 20
