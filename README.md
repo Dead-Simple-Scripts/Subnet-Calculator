@@ -26,7 +26,7 @@ Do you want a list of all the hosts in the subnet? [y | n]
 
 [*] Net Mask:           255.255.240.0
 
-[*] Minimun Host:       10.0.0.1
+[*] Minimum Host:       10.0.0.1
 
 [*] Maximum Host:       10.0.15.254
 
