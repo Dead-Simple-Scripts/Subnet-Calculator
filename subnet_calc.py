@@ -1,6 +1,6 @@
 # Script to calculate subnets.
 # Usage: python subnet.py --host 10.0.0.0 -m 16 > subnet.txt
-# Generating a host list is an interactive CLI question.
+# Generating a host list is an interactive CLI question|option.
 
 import argparse
 from ipaddress import ip_interface
