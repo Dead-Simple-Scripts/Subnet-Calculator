@@ -1,7 +1,7 @@
 # Subnet-Calculator
 Python script to calculate subnet information.
 
-usage: subnet_calc.py [-h] --host HOST -m MASK
+Usage: subnet_calc.py [-h] --host HOST -m MASK
 
 Usage: python subnet.py --host 10.0.0.0 -m 16 > subnet.txt
 
